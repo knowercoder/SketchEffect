@@ -17,4 +17,5 @@ Watch the Video demo here
 - Outline
 
 ## Reference:
-https://kylehalladay.com/blog/tutorial/2017/02/21/Pencil-Sketch-Effect.html
+Pencil hatching: https://kylehalladay.com/blog/tutorial/2017/02/21/Pencil-Sketch-Effect.html
+Outline: https://youtu.be/8Xq7tU5QN1Q?si=PwAtReDyQ8mxsVaj
