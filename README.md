@@ -7,6 +7,10 @@ Note this is not a post-processing shader. The post-processing shader feature is
 - Unity 2021.3 and above
 - URP
 
+To Download:
+- Install Git LFS
+- In command prompt: "git clone https://github.com/knowercoder/SketchEffect.git"
+
 ![SE-Cover](https://github.com/knowercoder/SketchEffect/assets/43854177/194f1a49-8d4a-4b88-8f08-d54f0b223d3b)
 
 Watch the Video demo [here](https://youtu.be/2otKm2jQfms)
