@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Floor
+  m_Shader: {fileID: -6465566751694194690, guid: 38be96ab7b9e81140bd98ea4b8a977ab,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_943f80e5e52d4ed6ae2ff518086f9225:
+        m_Texture: {fileID: 2800000, guid: 1c2555a2e2be8944a9c1ac4c83407911, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f5b1096f690a40c3a67e1389086d2a11:
+        m_Texture: {fileID: 2800000, guid: 36d4ca9e897ff5449aabf364cf430e27, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f5b1096f690a40c3a67e1389086d2a11_1:
+        m_Texture: {fileID: 2800000, guid: cb23a76b6b75f4f4580e2199dcd15c82, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - BOOLEAN_568FAFDE943840E4B4BD7C392F485EA8: 0
+    - BOOLEAN_80077960309F4824A71359E8135D7F36: 0
+    - Vector1_50b8ac999980412db264f78e0847fd39: 3
+    - Vector1_753aa7a2449e49e7b5f4330b9387cf92: 1
+    - Vector1_81d8d78318854578b97259c3b4d7675d: 3
+    - Vector1_94faf8875e9e410a8cd9ed9541600b4f: 0.01
+    - Vector1_a74491ac7e2a4b05881da0665db6371c: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors:
+    - Color_f1c1645d1a5645c18d9725c45912eec5: {r: 1, g: 1, b: 1, a: 0}
+    - Color_f1c1645d1a5645c18d9725c45912eec5_1: {r: 0.1509434, g: 0.1509434, b: 0.1509434,
+        a: 0}
+    - Color_fdb4426266254bd3ba2d808bbe0554ef: {r: 0.23529412, g: 0.23529412, b: 0.23529412,
+        a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &6055638346998758920
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
