@@ -3,12 +3,13 @@ SketchEffect helps you to create a pencil sketch effect in Unity. All you have t
 
 Note, this is not a post-processing shader.
 
-## Requirements
-- Unity 2021.3 and above
-- URP v12+
 
 ![SE-Cover](https://github.com/knowercoder/SketchEffect/assets/43854177/194f1a49-8d4a-4b88-8f08-d54f0b223d3b)
 
+
+## Requirements
+- Unity 2021.3 and above
+- URP v12+
 
 ## Key Features
 - Hatching
