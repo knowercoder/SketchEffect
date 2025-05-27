@@ -10,8 +10,6 @@ void Hatching_float(float2 _uv, float _intensity, float _dist, UnityTexture2D _H
     
     //It blends between two samples of the texture, to allow for tiling the texture when you zoom in.
     float uv_blend = abs(frac(log2_dist * 0.5) * 2.0 - 1.0);
-    
-    
 
     float2 scaledUVA = _uv / uv_scale.x; // 16
     float2 scaledUVB = _uv / uv_scale.y; // 8 

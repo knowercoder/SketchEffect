@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SketchEffect_Timmy
+  m_Name: SE_Timmy
   m_Shader: {fileID: -6465566751694194690, guid: 38be96ab7b9e81140bd98ea4b8a977ab,
     type: 3}
   m_ValidKeywords:
@@ -34,6 +34,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: cb23a76b6b75f4f4580e2199dcd15c82, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -54,8 +58,12 @@ Material:
     - Vector1_81d8d78318854578b97259c3b4d7675d: 1.2
     - Vector1_94faf8875e9e410a8cd9ed9541600b4f: 0.02
     - Vector1_a74491ac7e2a4b05881da0665db6371c: 1
+    - _AmbientOcclusion: 0.4
+    - _Metallic: 0
+    - _NormalStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Smoothness: 0
     m_Colors:
     - Color_f1c1645d1a5645c18d9725c45912eec5: {r: 1, g: 1, b: 1, a: 0}
     - Color_f1c1645d1a5645c18d9725c45912eec5_1: {r: 0.15294118, g: 0.15294118, b: 0.15294118,
