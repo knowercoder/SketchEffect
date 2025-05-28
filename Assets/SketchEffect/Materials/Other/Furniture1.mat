@@ -34,6 +34,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: cb23a76b6b75f4f4580e2199dcd15c82, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -49,13 +53,17 @@ Material:
     m_Ints: []
     m_Floats:
     - BOOLEAN_568FAFDE943840E4B4BD7C392F485EA8: 1
-    - Vector1_50b8ac999980412db264f78e0847fd39: 1
+    - Vector1_50b8ac999980412db264f78e0847fd39: 1.5
     - Vector1_753aa7a2449e49e7b5f4330b9387cf92: 1
     - Vector1_81d8d78318854578b97259c3b4d7675d: 3
     - Vector1_94faf8875e9e410a8cd9ed9541600b4f: 0.06
     - Vector1_a74491ac7e2a4b05881da0665db6371c: 1
+    - _AmbientOcclusion: 0.4
+    - _Metallic: 0.5
+    - _NormalStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Smoothness: 0.5
     m_Colors:
     - Color_f1c1645d1a5645c18d9725c45912eec5: {r: 1, g: 1, b: 1, a: 0}
     - Color_f1c1645d1a5645c18d9725c45912eec5_1: {r: 0.15294118, g: 0.15294118, b: 0.15294118,
