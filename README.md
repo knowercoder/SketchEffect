@@ -4,7 +4,7 @@ SketchEffect helps you to create a pencil sketch effect in Unity. All you have t
 Note, this is not a post-processing shader.
 
 
-![SE-Cover](https://github.com/knowercoder/SketchEffect/assets/43854177/194f1a49-8d4a-4b88-8f08-d54f0b223d3b)
+![SketchEffect](https://github.com/user-attachments/assets/c3328189-ac83-41fe-bf1d-26e2a66e7c69)
 
 
 ## Requirements
