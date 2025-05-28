@@ -30,8 +30,8 @@ These six textures are packed into two textures as 'darkest' (level 0, 1, 2) and
 To pack your custom textures, use the 'PackRGB' tool under the menu - Tools -> PackRGB
 
 ## References:
-Pencil hatching: https://kylehalladay.com/blog/tutorial/2017/02/21/Pencil-Sketch-Effect.html
+Pencil hatching: [Pencil Sketch Effect by Kyle Halladay](https://kylehalladay.com/blog/tutorial/2017/02/21/Pencil-Sketch-Effect.html)
 
-Outline: https://youtu.be/8Xq7tU5QN1Q?si=PwAtReDyQ8mxsVaj
+Outline: [Toon Outlines by NedMakesGames](https://youtu.be/8Xq7tU5QN1Q?si=PwAtReDyQ8mxsVaj)
 
-Custom lighting: https://nedmakesgames.medium.com/creating-custom-lighting-in-unitys-shader-graph-with-universal-render-pipeline-5ad442c27276
+Custom lighting: [URP custom lighting by NedMakesGames](https://nedmakesgames.medium.com/creating-custom-lighting-in-unitys-shader-graph-with-universal-render-pipeline-5ad442c27276)
